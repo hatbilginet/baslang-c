@@ -1,0 +1,2 @@
+# baslang-c
+yeni basladım
